@@ -1,0 +1,5 @@
+:pidfile: sidekiq.pid
+:logfile: sidekiq.log
+:concurrency: 10
+:queues:
+    - default
